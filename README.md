@@ -7,14 +7,14 @@ My solutions for codeeval.com challenges.
 Results:
 ========
 
-Easy
-  Fizz Buzz
-    Ranking Points: 30.243
-  Sum of Primes
-    Ranking Points: 30.253 minify: 30.301
-  Reverse words
-    Ranking Points: 30.029
-  Prime Palindrome
-    Ranking Points: 30.291	
-  Sum of Integers from File
-    Ranking Points: 30.215
+<ul>
+  <li>Easy
+    <ul>
+      <li><b>Fizz Buzz:</b> <i>Ranking Points:</i> 30.243</li>
+      <li><b>Sum of Primes:</b> <i>Ranking Points:</i> 30.253 [min: 30.301]</li>
+      <li><b>Reverse words:</b> <i>Ranking Points:</i> 30.029</li>
+      <li><b>Prime Palindrome:</b> <i>Ranking Points:</i> 30.291</li>
+      <li><b>Sum of Integers from File:</b> <i>Ranking Points:</i> 30.215</li>
+    </ul>
+  </li>
+</ul>
